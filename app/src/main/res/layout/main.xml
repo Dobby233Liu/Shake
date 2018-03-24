@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:gravity="center"
+	android:orientation="vertical">
+
+	<TextView
+		android:layout_height="wrap_content"
+		android:text="摇晃次数"
+		android:layout_width="wrap_content"/>
+
+	<TextView
+		android:text="null"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/Cishu"
+		android:textSize="21sp"/>
+
+	<Button
+		android:layout_height="wrap_content"
+		android:text="233"
+		android:layout_width="wrap_content"
+		android:id="@+id/wow"/>
+
+</LinearLayout>
